@@ -25,4 +25,8 @@ Use the following command to install the necessary dependencies:
 ```sh
 pip install django pillow numpy opencv-python tensorflow  # If using TensorFlow  
 pip install django pillow numpy opencv-python torch torchvision  # If using PyTorch  
+
+# Running this project 
+Clone this repository : git clone https://github.com/your-username/digit-recognition.git
+                      : cd digit-recognition
 Run the Django server: python manage.py runserver
